@@ -4,7 +4,7 @@ The purpose of OvO-R1 is to explore the influence of using end-to-end reinforcem
 ## Feature
 
 - Qwen2.5-1.5B/Qwen2.5-1.5B-Math/Qwen2.5-1.5B-Instruct scale model RL training
-- We supply 0.75k dataset for fast train loop, more experiments on large scale datasets is around the corner
+- We use 0.75k dataset for fast train loop, more experiments on large scale datasets is around the corner
 - We release wandb log for comparison between difference base models using GRPO
 - We are exploring the impact of various reward functions on these models
 
