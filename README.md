@@ -29,7 +29,7 @@ pip install -r requirements.txt
 | GPU                   | 4x3090                                                       | 4x3090                                                       | 4x3090                                                       |
 | Dataset_mini               | [X-R1-750](https://huggingface.co/datasets/xiaodongguaAIGC/X-R1-750)                             | [X-R1-750](https://huggingface.co/datasets/xiaodongguaAIGC/X-R1-750)                              | [X-R1-750](https://huggingface.co/datasets/xiaodongguaAIGC/X-R1-750)                              |
 | Dataset_middle               | - | -                                                  | -                                                 |
-| Dataset_large               | - | -                                                  | -                                                 |
+| Dataset_large               | -  | -                                                  | -                                                 |
 | Config: recipes       | OvO_R1_config.yaml                                 | OvO_R1_math_config.yaml                                 | OvO_R1_instruct_config.yaml                                     |
 | num_generations       | 8                                                           | 8                                                            | 8                                                            |
 | max_completion_length | 1024                                                         | 1024                                                         | 1024                                                         |
