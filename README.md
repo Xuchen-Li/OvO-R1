@@ -26,7 +26,6 @@ pip install -r requirements.txt
 | Model                 | OvO-R1                                                  | OvO-R1-Math                                             | OvO-R1-Instruct                                         |
 | --------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Base Model            | Qwen2.5-1.5B | Qwen2.5-1.5B-Math | Qwen2.5-1.5B-Instruct |
-| GPU                   | 4x3090                                                       | 4x3090                                                       | 4x3090                                                       |
 | Dataset_mini               | [X-R1-750](https://huggingface.co/datasets/xiaodongguaAIGC/X-R1-750)                             | [X-R1-750](https://huggingface.co/datasets/xiaodongguaAIGC/X-R1-750)                              | [X-R1-750](https://huggingface.co/datasets/xiaodongguaAIGC/X-R1-750)                              |
 | Dataset_middle               | - | -                                                  | -                                                 |
 | Dataset_large               | -  | -                                                  | -                                                 |
